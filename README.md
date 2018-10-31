@@ -1,12 +1,14 @@
 # Mis-Perris
-Requisitos:
+ - Requisitos -
+
 -Python 
 -get-pip.py
 
 
-Instalación
--#pip Install Django
--#pip install django-multiselectfield
+Instalación:
+
+#pip Install Django
+#pip install django-multiselectfield
 
 
 
